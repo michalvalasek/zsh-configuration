@@ -4,7 +4,7 @@ zsh configuration
 1. Create the .zsh folder in your home dir:
 `cd ~ && mkdir .zsh && cd .zsh`
 2. Clone the repo:
-`git clone `
+`git clone git@github.com:michalvalasek/zsh-configuration.git .`
 3. Create symlinks:
 ```
 cd ~
