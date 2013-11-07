@@ -59,6 +59,7 @@ fi
 # remote machines
 # -------------------------------------------------------------------
 #alias 'palantir=ssh mhn@palantir.ome.ksu.edu -p 11122'
+alias 'c_burstdev=echo "Connecting to Burst DEV machine..." && ssh mvalasek@50.19.36.208'
 
 # -------------------------------------------------------------------
 # Oddball stuff

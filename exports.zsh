@@ -32,3 +32,6 @@ export LC_COLLATE=C
 #export WORKON_HOME=$HOME/.virtualenvs
 #export PROJECT_HOME=$HOME/Projects/django
 #source /usr/local/bin/virtualenvwrapper.sh
+
+# mysql
+export DYLD_LIBRARY_PATH=/usr/local/lib/
