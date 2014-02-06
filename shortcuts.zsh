@@ -12,3 +12,8 @@ compdef _rr rr
 p() { cd ~/Code/php/$1; }
 _p() { _files -W ~/Code/php -/; }
 compdef _p p
+
+# Shortcut for running shell scripts
+s() { zsh ~/Code/shell/$1; }
+_s() { _files -W ~/Code/shell -/; }
+compdef _s s
